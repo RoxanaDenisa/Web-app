@@ -1,0 +1,32 @@
+body{
+	background: #dfdfdf;
+	margin-top:20px;
+	margin-left:20px;}
+#form input:nth-child(-n+3){
+	border: solid #5a5a5a 2px;
+    border-radius: 6px;
+    padding: 4px 12px;
+	background-color: rgba(213, 126, 126, 0.83);
+
+}
+
+#size {
+	margin-left:40px;
+	 padding: 4px 30px 
+}
+#count{
+	margin-left:1px;
+	 padding: 4px 30px 
+}
+.sizes, .counts{
+	border: none;
+	display: inline;
+	font-family: inherit;
+	font-size: inherit;
+	padding: none;
+	width: auto;
+}
+
+li{
+	list-style: none;
+}
